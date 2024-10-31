@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nf-conditional-actions\n"
+"POT-Creation-Date: 2016-02-01 20:00-0500\n"
+"PO-Revision-Date: 2016-02-01 20:00-0500\n"
+"Last-Translator: \n"
+"Language-Team: macnetic-labs <info@macnetic-labs.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+
+
+#: nf-conditional-actions.php:16
+msgid "Plugin 'NF Conditional Actions' deactivated, because it requires the Ninja Forms plugin to be installed and active"
+msgstr ""
+
+#: classes/notification-conditional-action-message.php:17
+msgid "Conditional Message"
+msgstr ""
+
+#: classes/notification-conditional-action-message.php:49
+msgid "Standard"
+msgstr ""
+
+#: classes/notification-conditional-action-message.php:65
+msgid "Add"
+msgstr ""
+
+#: classes/notification-conditional-action-message.php:77
+msgid "Condition"
+msgstr ""
+
+#: classes/notification-conditional-action-message.php:80
+msgid "Remove"
+msgstr ""
+
+#: classes/notification-conditional-action-message.php:89
+msgid "Message"
+msgstr ""
